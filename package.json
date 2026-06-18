@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-startup-investors-api",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Search a database of startup investors and return firm names, websites, focus areas, and stages. Apify-backed n8n community node, pay-per-result, and usable as an AI agent tool.",
 	"keywords": [
 		"n8n-community-node-package",
